@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ravi, a Software Development Manager.
+# Hi there! 👋 I'm Ravi, a Product Manager.
 
 🔧 Passionate about building cutting-edge tools and leading high-performing development teams.
 
