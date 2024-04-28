@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Ravi, a Software Development Manager.
+# Hi there! 👋 I'm Ravi, a Software Development Manager.
 
 🔧 Passionate about building cutting-edge tools and leading high-performing development teams.
 
@@ -13,11 +13,11 @@
 - 🌱 Committed to continuous learning, currently expanding my skills in auditing DeFi projects to safeguard crypto assets.
 
 
-🌱 Currently learning the art of juggling blockchain buzzwords without dropping the ball!
-💞️ Open to collaborations on projects that are as wild as trying to explain blockchain to a goldfish. Let's dive into the crypto aquarium together!
-📫 Reach me by following the scent of freshly brewed coffee and the sound of keyboard clacks. Or just send a smoke signal; I'm surprisingly good at decoding them!
-😄 Pronouns: He/Him/His, or you can call me "The Crypto Guru" if you're feeling adventurous.
-⚡ Fun fact: Blockchain is like a box of chocolates—decentralized, immutable, and occasionally filled with surprises! 🍫🔗
+- 🌱 Currently learning the art of juggling blockchain buzzwords without dropping the ball!
+- 💞️ Open to collaborations on projects that are as wild as trying to explain blockchain to a goldfish. Let's dive into the crypto aquarium together!
+- 📫 Reach me by following the scent of freshly brewed coffee and the sound of keyboard clacks. Or just send a smoke signal; I'm surprisingly good at decoding them!
+- 😄 Pronouns: He/Him/His, or you can call me "The Crypto Guru" if you're feeling adventurous.
+- ⚡ Fun fact: Blockchain is like a box of chocolates—decentralized, immutable, and occasionally filled with surprises! 🍫🔗
 
 - 📫 How to reach me ... 0xraviny@gmail.com
   
